@@ -1,2 +1,2 @@
 # Desafio Dio
-## Criando uma Academia Digital com Java.
+## Conhecendo Spring Data JPA na prática com Java.
